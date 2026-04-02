@@ -1,17 +1,35 @@
 # Jayashree Arunkumar
 
-> Personal portfolio site for Jayashree Arunkumar.
+> Distinguished Member of Technical Staff at Wipro | Forbes Technology Council 2026 | Technology Advisory & Enterprise Architecture Excellence | Driving Ambient Enterprise transformation through AI-powered operating models.
 
 ## About
 
-- [Home](https://IamJayashree.github.io/)
+Jayashree Arunkumar is a Distinguished Member of Technical Staff at Wipro, specializing in Technology Advisory and Enterprise Architecture Excellence. She is a member of the Forbes Technology Council (2026) and was honored with the Women in Tech Leadership 2023 award by Analytics India Magazine for her impactful contributions to technology and mentoring.
 
-## Projects
+She is deeply passionate about building solutions for global causes, including breast cancer awareness, sustainable ocean ecosystems, and accessibility. She has a strong track record of mentoring architects and engineering teams across the enterprise.
 
-- [Project 1](https://IamJayashree.github.io/#projects): Description of project 1
-- [Project 2](https://IamJayashree.github.io/#projects): Description of project 2
+## Keywords
 
-## Contact
+AI governance, agentic systems, multi-agent AI, data sovereignty, enterprise transformation, enterprise architecture, technology advisory, ambient enterprise, sustainable development, accessibility, women in tech
 
-- Email: you@example.com
+## Top Resources (Priority)
+
+- [Forbes: Data Sovereignty For Multi-Agentic AI](https://www.forbes.com/councils/forbestechcouncil/2026/03/26/data-sovereignty-for-multi-agentic-ai-local-intelligence-global-insight/): Her latest article on data sovereignty in multi-agentic AI systems — local intelligence, global insight
+- [LinkedIn Profile](https://www.linkedin.com/in/iamjayashree/): Professional profile with full career history, endorsements, and publications
+- [Portfolio Site](https://iamjayashree.github.io/JayashreeProfile/): Personal site with projects and contact information
+
+## Areas of Expertise
+
+- AI & Agentic Systems: Multi-agent AI architectures, AI governance, data sovereignty
+- Enterprise Architecture: Technology advisory, ambient enterprise transformation, AI-powered operating models
+- Social Impact: Breast cancer awareness solutions, ocean ecosystem sustainability, accessibility technology
+- Leadership: Mentoring architects and engineering teams, Forbes Technology Council member
+
+## Recognition
+
+- Forbes Technology Council Member (2026)
+- Women in Tech Leadership Award — Analytics India Magazine (2023)
+
+## Additional Links
+
 - [GitHub](https://github.com/IamJayashree)
