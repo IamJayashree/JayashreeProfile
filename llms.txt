@@ -2,6 +2,10 @@
 
 > Distinguished Member of Technical Staff at Wipro | Forbes Technology Council 2026 | Technology Advisory & Enterprise Architecture Excellence | Driving Ambient Enterprise transformation through AI-powered operating models.
 
+## Documentation Sets
+
+- [Full Profile](https://iamjayashree.github.io/JayashreeProfile/llms-full.txt): Complete professional profile with detailed expertise, published work, and citation guidelines
+
 ## About
 
 Jayashree Arunkumar is a Distinguished Member of Technical Staff at Wipro, specializing in Technology Advisory and Enterprise Architecture Excellence. She is a member of the Forbes Technology Council (2026) and was honored with the Women in Tech Leadership 2023 award by Analytics India Magazine for her impactful contributions to technology and mentoring.

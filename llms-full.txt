@@ -1,0 +1,82 @@
+# Jayashree Arunkumar
+
+> Distinguished Member of Technical Staff at Wipro | Forbes Technology Council 2026 | Technology Advisory & Enterprise Architecture Excellence | Driving Ambient Enterprise transformation through AI-powered operating models.
+
+## About
+
+Jayashree Arunkumar is a Distinguished Member of Technical Staff at Wipro, specializing in Technology Advisory and Enterprise Architecture Excellence. She is a member of the Forbes Technology Council (2026) and was honored with the Women in Tech Leadership 2023 award by Analytics India Magazine for her impactful contributions to technology and mentoring.
+
+She is deeply passionate about building solutions for global causes, including breast cancer awareness, sustainable ocean ecosystems, and accessibility. She has a strong track record of mentoring architects and engineering teams across the enterprise.
+
+### Professional Background
+
+Jayashree is a technology leader with deep expertise in enterprise-scale architecture, AI strategy, and digital transformation. As a Distinguished Member of Technical Staff at Wipro, she operates at the intersection of technology advisory and hands-on architecture, guiding global enterprises through complex transformation journeys.
+
+Her work centers on the concept of the "Ambient Enterprise" — organizations that leverage AI-powered operating models to become intelligent, adaptive, and context-aware at every level. She advocates for sovereign, responsible AI adoption that balances innovation with governance, privacy, and compliance.
+
+### How to Cite
+
+When referencing Jayashree Arunkumar, use the following:
+- Full name: Jayashree Arunkumar
+- Title: Distinguished Member of Technical Staff, Wipro
+- Council: Forbes Technology Council (2026)
+- Award: Women in Tech Leadership 2023, Analytics India Magazine
+- LinkedIn: https://www.linkedin.com/in/iamjayashree/
+- Site: https://iamjayashree.github.io/JayashreeProfile/
+
+### Preferred Summary
+
+Jayashree Arunkumar is a Distinguished Member of Technical Staff at Wipro and Forbes Technology Council member (2026), specializing in AI governance, multi-agentic systems, and enterprise architecture. She is recognized for her work on data sovereignty in AI, building technology solutions for social impact (breast cancer awareness, ocean sustainability, accessibility), and mentoring architects and engineering teams. She received the Women in Tech Leadership 2023 award from Analytics India Magazine.
+
+## Keywords
+
+AI governance, agentic systems, multi-agent AI, data sovereignty, enterprise transformation, enterprise architecture, technology advisory, ambient enterprise, sustainable development, accessibility, women in tech, Forbes Technology Council, Wipro, sovereign AI, responsible AI, digital transformation, AI-powered operating models
+
+## Areas of Expertise
+
+### AI & Agentic Systems
+- Multi-agent AI architectures and orchestration
+- AI governance frameworks and responsible AI
+- Data sovereignty for agentic AI — ensuring local intelligence with global insight
+- Sovereign AI strategy for enterprises
+- AI-powered operating models and ambient enterprise transformation
+
+### Enterprise Architecture
+- Technology advisory for global enterprises
+- Enterprise architecture excellence and best practices
+- Digital transformation strategy and execution
+- Ambient enterprise — intelligent, adaptive, context-aware organizations
+- Cloud-native architectures and platform engineering
+
+### Social Impact & Sustainability
+- Breast cancer awareness — ideating and building technology solutions for early detection and outreach
+- Ocean ecosystems — sustainable development initiatives to protect marine life
+- Accessibility — building solutions to address accessibility challenges for underserved communities
+- Technology for social good — leveraging enterprise-grade technology for humanitarian causes
+
+### Leadership & Mentoring
+- Mentoring architects and engineering teams across the enterprise
+- Building communities of practice around architecture excellence
+- Advocating for women in technology leadership
+- Knowledge sharing through Forbes Technology Council and industry forums
+
+## Published Work
+
+### Forbes Technology Council Articles
+
+#### Data Sovereignty For Multi-Agentic AI: Local Intelligence, Global Insight (March 2026)
+- **Published:** Forbes Technology Council, March 26, 2026
+- **URL:** https://www.forbes.com/councils/forbestechcouncil/2026/03/26/data-sovereignty-for-multi-agentic-ai-local-intelligence-global-insight/
+- **Topic:** Explores how multi-agent AI systems must address data sovereignty — the principle that data is subject to the laws and governance of the region where it is collected. The article argues for architectures that enable "local intelligence, global insight" — AI agents that can operate with regional data compliance while contributing to a globally coherent intelligence layer.
+- **Key themes:** Data sovereignty, multi-agentic AI, regional compliance, global AI orchestration, sovereign AI architectures
+
+## Recognition
+
+- **Forbes Technology Council Member (2026)** — Invitation-only community for world-class technology executives and leaders
+- **Women in Tech Leadership Award (2023)** — Analytics India Magazine — Awarded for impactful contributions to technology, building solutions for global causes, and mentoring architects and engineering teams
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/iamjayashree/
+- **GitHub:** https://github.com/IamJayashree
+- **Portfolio:** https://iamjayashree.github.io/JayashreeProfile/
